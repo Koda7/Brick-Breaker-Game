@@ -1,5 +1,5 @@
 import os
-# from get_input import Get, input_to
+from get_input import Get, input_to
 from random import randint
 import time
 from player import Player
