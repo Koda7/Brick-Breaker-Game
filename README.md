@@ -1,5 +1,4 @@
 # Brick-Breaker-Game
-# Brick-Breaker
 
 The game is made using Python and is a normal terminal game that involves breaking all the bricks using the ball and the paddle with lots of power-ups and more.
 
