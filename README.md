@@ -21,23 +21,23 @@ python3 main.py
 
 - Use A and D to move the paddle left and right respectively
 - Use Space to release the ball from the paddle
-- Initially 2 lives are given to the player
+- Initially, 2 lives are given to the player
 - Hitting the ground will result in the loss of a life
 - For every brick destroyed 10 points are added to the score
 - Power Ups are dropped when certain bricks are destroyed
 - Every power-up lasts 5 seconds
 - Type of Bricks
 
-  1. <span style="color:green">#</span> Green Brick has strength 1
-  2. <span style="color:yellow">#</span> Yellow Brick has strength 2
-  3. <span style="color:red">#</span> Red Brick has strength 3
-  4. <span style="color:cyan">#</span> Cyan Brick is the unbreakable brick
-  5. <span style="color:blue">#</span> Blue Brick is the exploding brick that destroys all adjacent bricks
+  1. Green Brick has strength 1
+  2. Yellow Brick has strength 2
+  3. Red Brick has strength 3
+  4. Cyan Brick is the unbreakable brick
+  5. <Blue Brick is the exploding brick that destroys all adjacent bricks
 
 - Power Ups include
-  1. \+ : Expand the paddle by 2 units
-  2. \- : Shrink the paddle by 2 units
+  1. + : Expand the paddle by 2 units
+  2. - : Shrink the paddle by 2 units
   3. x : Every ball present will be divided into 2
   4. F: Increases the speed of the ball
   5. G: Paddle grabs the ball and releases at will
-  6. T: Through ball in which ball destroys every brick in it's path
+  6. T: Through ball in which ball destroys every brick in its path
