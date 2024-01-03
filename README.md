@@ -37,7 +37,7 @@ python3 main.py
 - Power Ups include
   1. + : Expand the paddle by 2 units
   2. - : Shrink the paddle by 2 units
-  3. x : Every ball present will be divided into 2
+  3. x: Every ball present will be divided into 2
   4. F: Increases the speed of the ball
   5. G: Paddle grabs the ball and releases at will
   6. T: Through ball in which ball destroys every brick in its path
