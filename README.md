@@ -32,11 +32,11 @@ python3 main.py
   2. Yellow Brick has strength 2
   3. Red Brick has strength 3
   4. Cyan Brick is the unbreakable brick
-  5. <Blue Brick is the exploding brick that destroys all adjacent bricks
+  5. Blue Brick is the exploding brick that destroys all adjacent bricks
 
 - Power Ups include
-  1. + : Expand the paddle by 2 units
-  2. - : Shrink the paddle by 2 units
+  1. '+' : Expand the paddle by 2 units
+  2. '-' : Shrink the paddle by 2 units
   3. x: Every ball present will be divided into 2
   4. F: Increases the speed of the ball
   5. G: Paddle grabs the ball and releases at will
